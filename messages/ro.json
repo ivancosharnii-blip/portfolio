@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "work": "Lucrări",
+    "about": "Despre",
+    "contact": "Contact"
+  },
+  "hero": {
+    "line": "Site-uri care",
+    "words": ["ZBOARĂ", "VÂND", "RĂMÂN"],
+    "bio": "Sunt Ivan — fac site-uri pentru oameni care își conduc propria afacere. Munca ta merită mai mult decât o pagină de Facebook și un număr de telefon.",
+    "paintedIn": "PAGINA S-A DESENAT ÎN {ms}MS",
+    "measured": "MĂSURAT, NU DECLARAT",
+    "signature": "moldova · 2026"
+  },
+  "work": {
+    "label": "LUCRĂRI SELECTATE",
+    "viewLive": "VEZI LIVE ↗",
+    "danil": {
+      "title": "Danil Art",
+      "description": "Un pictor și tatuator din Cehia avea nevoie de mai mult decât o galerie — avea nevoie să vândă. Așa că site-ul vine cu panou de administrare: adaugă lucrări, pune prețuri, publică. Fără developer. Trilingv, construit mobile-first.",
+      "meta": [
+        "CLIENT — TATUATOR, CEHIA",
+        "REALIZAT — CATALOG + PANOU ADMIN",
+        "LIMBI — UA / EN / CZ",
+        "STACK — NEXT.JS · TYPESCRIPT · TAILWIND",
+        "LIVE — HABRYNETS.ART"
+      ]
+    },
+    "erba": {
+      "title": "Erba Pura",
+      "description": "O pagină de prezentare pentru un parfum, făcută din proprie inițiativă. Fără coș, fără prețuri — tot rostul e să simți parfumul înainte să-l miroși.",
+      "meta": [
+        "TIP — PROIECT PERSONAL",
+        "REALIZAT — LANDING EDITORIAL",
+        "STACK — NEXT.JS · TYPESCRIPT · TAILWIND",
+        "LIVE — PARFUM-IVORY.VERCEL.APP"
+      ]
+    }
+  },
+  "about": {
+    "stroke": "Majoritatea site-urilor doar enumeră ce faci.",
+    "solid": "Eu le fac pe cele care îi fac pe oameni să vrea.",
+    "points": [
+      "Serviciile tale povestite ca o istorie, nu tipărite ca un meniu.",
+      "Se încarcă rapid. Merge pe telefon. Nimic stricat.",
+      "Domeniu, găzduire, deploy — mă ocup eu. Tu doar te uiți la rezultat."
+    ],
+    "stack": "Next.js · TypeScript · Tailwind · Supabase · Vercel"
+  },
+  "contact": {
+    "heading": "Ai ceva ce merită arătat?",
+    "sub": "Spune-mi ce faci. Îți spun cum ar trebui să arate."
+  },
+  "footer": {
+    "marquee": "IVAN · WEB · MOLDOVA · ",
+    "left": "IVAN",
+    "right": "MOLDOVA · 2026"
+  }
+}

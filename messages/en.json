@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "line": "Sites that",
+    "words": ["LOAD", "SELL", "STAY"],
+    "bio": "I'm Ivan — I build websites for people who run their own thing. Your work deserves better than a Facebook page and a phone number.",
+    "paintedIn": "THIS PAGE PAINTED IN {ms}MS",
+    "measured": "MEASURED, NOT CLAIMED",
+    "signature": "moldova · 2026"
+  },
+  "work": {
+    "label": "SELECTED WORK",
+    "viewLive": "VIEW LIVE ↗",
+    "danil": {
+      "title": "Danil Art",
+      "description": "A painter and tattoo artist in Czechia needed more than a gallery — he needed to sell. So the site ships with an admin panel: he adds works, sets prices, publishes. No developer required. Trilingual, built mobile-first.",
+      "meta": [
+        "CLIENT — TATTOO ARTIST, CZECHIA",
+        "BUILT — CATALOG + ADMIN PANEL",
+        "LANGUAGES — UA / EN / CZ",
+        "STACK — NEXT.JS · TYPESCRIPT · TAILWIND",
+        "LIVE — HABRYNETS.ART"
+      ]
+    },
+    "erba": {
+      "title": "Erba Pura",
+      "description": "A self-initiated presentation page for a perfume. No cart, no price tags — the whole job is to make you feel the thing before you ever smell it.",
+      "meta": [
+        "TYPE — SELF-INITIATED",
+        "BUILT — EDITORIAL LANDING",
+        "STACK — NEXT.JS · TYPESCRIPT · TAILWIND",
+        "LIVE — PARFUM-IVORY.VERCEL.APP"
+      ]
+    }
+  },
+  "about": {
+    "stroke": "Most sites just list what you do.",
+    "solid": "I build the ones that make people want it.",
+    "points": [
+      "Your services told like a story, not printed like a menu.",
+      "Loads fast. Works on a phone. Nothing broken.",
+      "Domain, hosting, deploy — I handle it. You just look at the result."
+    ],
+    "stack": "Next.js · TypeScript · Tailwind · Supabase · Vercel"
+  },
+  "contact": {
+    "heading": "Got something worth showing?",
+    "sub": "Tell me what you do. I'll tell you how it should look."
+  },
+  "footer": {
+    "marquee": "IVAN · WEB · MOLDOVA · ",
+    "left": "IVAN",
+    "right": "MOLDOVA · 2026"
+  }
+}
